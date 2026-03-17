@@ -12,7 +12,7 @@ Power Platform can help SAP users and others drive business by making it easier 
 
 - **Assist** with Power Virtual Agents (PVA) by helping your customers and employees to quickly gain access to the information and guidance they need.
 
-## Key products
+# Key products
 
 Enterprise customers can use the four key products in the Microsoft Power Platform suite to integrate with their SAP data and build innovative line of business applications:
 
