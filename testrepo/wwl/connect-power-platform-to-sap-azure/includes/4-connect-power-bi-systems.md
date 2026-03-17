@@ -10,7 +10,7 @@ You can choose from four major built-in connectors to access SAP environments an
 
     ![Power BI connectors are available directly in Power BI Desktop and can be invoked by clicking on “Get data” in the Power BI Desktop application.]( ../media/power-bi-connectors.png)
 
-# Connect to SAP HANA with Power BI
+## Connect to SAP HANA with Power BI
 
 You can connect to SAP HANA with the Power BI Desktop on a Windows computer. You can then build reports for local use only, or connect to your Power BI Service and share the SAP HANA data with users you select. 
 
