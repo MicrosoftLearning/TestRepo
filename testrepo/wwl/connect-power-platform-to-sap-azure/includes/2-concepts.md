@@ -14,6 +14,8 @@ Power Platform can help SAP users and others drive business by making it easier 
 
 ## Key products
 
+Change
+
 Enterprise customers can use the four key products in the Microsoft Power Platform suite to integrate with their SAP data and build innovative line of business applications:
 
 - **Power Apps** provides a rapid low-code development environment for building custom business apps. It includes services, connectors, and a scalable data service and app platform. This allows simple integration and interaction with existing data in SQL Server, SAP HANA, and other sources.
