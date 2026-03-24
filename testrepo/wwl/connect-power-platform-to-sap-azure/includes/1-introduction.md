@@ -2,6 +2,7 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 
 ## Learning objectives
 
+this is a spell err.
 After this module, you will be able to:
 
 - Describe the key concepts and products that form the Microsoft Power Platform suite.
