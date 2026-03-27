@@ -1,4 +1,4 @@
-# How Do You Do?
+## How Do You Do?
 Starting with Windows 10 and continuing into Windows 11, in addition to joining an Active Directory Domain Services (AD DS) domain, deploy Microsoft Entra joined devices. Along with creating user accounts in Microsoft Entra ID, you can have objects that represent devices, and you can manage devices that are joined to Microsoft Entra ID from the cloud.
 
 thsi a rwong sentence.
