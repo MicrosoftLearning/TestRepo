@@ -4,6 +4,8 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 
 this is a splle error.
 
+please follow the steps in order to utilize this module.
+
 After this module, you will be able to:
 
 - Describe the key concepts and products that form the Microsoft Power Platform suite.
@@ -23,3 +25,10 @@ After this module, you will be able to:
 - AZ-104 or equivalent knowledge
 
 - Knowledge of SAP products such as SAP HANA or SAP NetWeaver
+
+## Sign in to the portal
+
+The user should navigate to the Azure portal and select **Subscriptions**.
+The administrator then needs to assign the Contributor role to the service
+principal. Once the role is assigned, the developer can verify access by
+opening the resource group.
