@@ -1,10 +1,10 @@
 There is an increasing requirement to connect the Microsoft Power Platform to SAP landscapes in a compliant and secure way. With prebuilt and custom connectors you can foster innovation across your organization, giving everyone the ability to analyze data, build solutions, automate processes, and create chatbots.
 
-# Learning objectives
+## Learning objectives
 
-this is a splle error.
+this is a spell error.
 
-Please follow the steps to complete this module.
+You follow the steps to complete this module.
 
 After this module, you will be able to:
 
@@ -28,4 +28,4 @@ After this module, you will be able to:
 
 ## Sign in to the portal
 
-The user should navigate to the Azure portal and select **Subscriptions**.
+You navigate to the Azure portal and select **Subscriptions**.
