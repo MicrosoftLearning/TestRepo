@@ -2,7 +2,9 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 
 ## Learning objectives
 
-this is a spell error.
+This is a spell error.
+
+Please follow the steps to complete this module.
 
 After this module, you will be able to:
 
@@ -23,3 +25,7 @@ After this module, you will be able to:
 - AZ-104 or equivalent knowledge
 
 - Knowledge of SAP products such as SAP HANA or SAP NetWeaver
+
+## Sign in to the portal
+
+The user navigate to the Azure portal and select **Subscriptions**.
