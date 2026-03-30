@@ -4,7 +4,7 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 
 this is a splle error.
 
-please follow the steps in order to utilize this module.
+please follow the steps to complete this module.
 
 After this module, you will be able to:
 
