@@ -2,7 +2,7 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 
 ## Learning objectives
 
-Please follew the steps to complete this module.
+You follow the steps to complete this module.
 
 After this module, you will be able to:
 
