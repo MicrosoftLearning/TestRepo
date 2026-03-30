@@ -2,9 +2,9 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 
 ## Learning objectives
 
-this is a spell error.
+This is a spell error.
 
-You follow the steps to complete this module.
+Please follow the steps to complete this module.
 
 After this module, you will be able to:
 
@@ -28,4 +28,4 @@ After this module, you will be able to:
 
 ## Sign in to the portal
 
-You navigate to the Azure portal and select **Subscriptions**.
+The user navigate to the Azure portal and select **Subscriptions**.
