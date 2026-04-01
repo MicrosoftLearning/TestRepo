@@ -3,7 +3,7 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 ## Learning objectives
 
 
-You follow the steps to complete this module. I need a new tool here.
+Please follow the steps to complete this module. I need a new tool here.
 
 
 
