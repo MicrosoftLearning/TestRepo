@@ -6,6 +6,8 @@ There is an increasing requirement to connect the Microsoft Power Platform to SA
 You follow the steps to complete this module. I need a new tool here.up
 
 
+
+
 After this module, you will be able to:
 
 - Describe the key concepts and products that form the Microsoft Power Platform suite.
