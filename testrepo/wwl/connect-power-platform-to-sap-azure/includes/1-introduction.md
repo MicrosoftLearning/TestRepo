@@ -1,11 +1,9 @@
 There is an increasing requirement to connect the Microsoft Power Platform to SAP landscapes in a compliant and secure way. With prebuilt and custom connectors you can foster innovation across your organization, giving everyone the ability to analyze data, build solutions, automate processes, and create chatbots.
 
-## Learning objectives
+# Learning objectives
 
 
 Use follow the steps to complete this module. I need a new tool here.
-
-
 
 
 After this module, you will be able to:
