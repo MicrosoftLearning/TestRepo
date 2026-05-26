@@ -28,6 +28,6 @@ After this module, you will be able to:
 
 - Knowledge of SAP products such as SAP HANA or SAP NetWeaver
 
-## Sign in to the Portal
+## Sign in to the Azure portal
 
 You navigate to the Azure portal and select **Subscriptions**.
