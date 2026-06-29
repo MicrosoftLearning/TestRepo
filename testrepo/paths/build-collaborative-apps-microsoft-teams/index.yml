@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn.wwl.build-collaborative-apps-microsoft-teams
+metadata:
+  title: Build collaborative apps for Microsoft Teams
+  description: Learn how to build and distribute Microsoft Teams apps that retrieve user information using the Microsoft Graph API.   Practice building and deploying apps in the guided project at the end of the learning path.
+  ms.date: 01/17/2024
+  author: wwlpublish
+  ms.author: bdeen
+  ms.topic: learning-path
+title: Build collaborative apps for Microsoft Teams
+prerequisites: |
+  *   Basic understanding of Microsoft Teams apps and their components, including adaptive cards and task modules
+  *   Ability to program with JavaScript, TypeScript, and Node.js
+  *   Experience using Visual Studio Code at the intermediate level
+  *   Global administrator access to a [Microsoft 365 tenant](https://developer.microsoft.com/microsoft-365/dev-program?ocid=MSlearn)
+  *   Access to a [Microsoft Azure subscription](https://azure.microsoft.com/free/)
+summary: |
+  Learn how to build and distribute Microsoft Teams apps that retrieve user information using the Microsoft Graph API.   Practice building and deploying apps in the guided project at the end of the learning path.
+iconUrl: /training/achievements/generic-trophy.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+- ms-graph
+- office-teams
+- entra-id
+- ms-copilot
+subjects:
+- backend-development
+- frontend-development
+modules:
+- learn-m365.teams-toolkit-vsc-intro
+- learn.wwl.build-microsoft-teams-bot-apps
+- learn.wwl.build-message-extensions-microsoft-teams-copilot
+- learn.wwl.build-tabs-microsoft-teams
+- learn.wwl.connect-web-services-microsoft-teams-apps-webhooks
+- learn.wwl.retrieve-m365-data-teams-app-microsoft-graph
+- learn-m365.teams-toolkit-vsc-deploy-apps
+- learn.wwl.build-deploy-microsoft-teams-app-teams-toolkit
+trophy:
+  uid: learn.wwl.build-collaborative-apps-microsoft-teams.trophy

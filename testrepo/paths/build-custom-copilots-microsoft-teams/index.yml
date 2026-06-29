@@ -1,0 +1,29 @@
+### YamlMime:LearningPath
+uid: learn.wwl.build-custom-copilots-microsoft-teams
+metadata:
+  title: Build custom agents for Microsoft Teams
+  description: Build custom agents for your Microsoft Teams environment for your business needs.
+  ms.date: 01/08/2025
+  author: wwlpublish
+  ms.author: anshaki
+  ms.topic: learning-path
+title: Build custom agents for Microsoft Teams
+prerequisites: |
+  Familiarity with Teams Toolkit, Visual Studio Code, Microsoft Teams, and creating chat bots.
+summary: |
+  Build intelligent Microsoft Teams apps using the LLMs and AI components of your choice with Teams AI Library. These custom agents can also be used to extend Microsoft 365 Copilot.
+iconUrl: /training/achievements/generic-trophy.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-teams
+subjects:
+- custom-app-development
+modules:
+- learn.wwl.explore-copilot-stack
+- learn.wwl.utilize-azure-openai-model-create-app
+- learn.wwl.build-your-custom-agent-teams
+trophy:
+  uid: learn.wwl.build-custom-copilots-microsoft-teams.trophy
