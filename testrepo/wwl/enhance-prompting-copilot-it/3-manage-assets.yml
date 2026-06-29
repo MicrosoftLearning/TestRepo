@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.empower-workforce-copilot-it.create-project-plan-presentation
+title: 'Exercise: Manage IT assets using Microsoft 365 Copilot in Excel'
+metadata:
+  title: 'Exercise: Manage IT assets using Microsoft 365 Copilot in Excel'
+  description: "Exercise: Manage IT assets using Microsoft 365 Copilot in Excel"
+  ms.date: 05/14/2025
+  author: wwlpublish
+  ms.author: tfrink
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 7
+content: |
+  [!include[](includes/3-manage-assets.md)]

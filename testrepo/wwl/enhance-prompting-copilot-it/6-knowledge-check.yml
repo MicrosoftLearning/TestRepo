@@ -1,0 +1,52 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.empower-workforce-copilot-it.knowledge-check
+title: Module assessment
+metadata:
+  title: Module assessment
+  description: "Knowledge check"
+  ms.date: 05/14/2025
+  author: wwlpublish
+  ms.author: tfrink
+  ms.topic: unit
+  ms.custom:
+  - N/A
+  module_assessment: true
+durationInMinutes: 4
+content: |
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Which of the following items is a capability available from the Microsoft 365 Copilot Chat page?"
+    choices:
+    - content: "A user can ask questions about their files stored in OneDrive or SharePoint, and Copilot will reference them in its responses."
+      isCorrect: true
+      explanation: "Correct. From the Copilot Chat page, you can ask questions about content in your OneDrive or SharePoint files. Copilot can access and reference those documents to provide context-aware answers, summaries, or insights."
+    - content: "A user can edit Word or Excel files directly from the Copilot Chat page using a built-in editor."
+      isCorrect: false
+      explanation: "Incorrect. While Copilot can reference your documents, it doesn't currently offer full editing capabilities directly in the chat interface. To make edits, you must open the files in Word, Excel, or another corresponding app."
+    - content: "A user can manage their Microsoft Teams meetings and reschedule them from within the chat interface."
+      isCorrect: false
+      explanation: "Incorrect. Copilot Chat doesn't have native calendar or meeting management functionality. You must use Outlook or Teams to reschedule meetings."
+  - content: "When a person uses Microsoft 365 Copilot in Word to create a new report, what information can Copilot base the report on?"
+    choices:
+    - content: "Messages from their personal email account."
+      isCorrect: false
+      explanation: "Incorrect. Copilot in Word can't access email account data, whether it be a personal email address or their company email address."
+    - content: "Their chat threads in Microsoft Teams and their emails and meetings in Outlook."
+      isCorrect: false
+      explanation: "Incorrect. Microsoft 365 Copilot in Teams can access all this information, but Copilot in Word can't."
+    - content: "An almost unlimited number of documents that the person can link to their prompt."
+      isCorrect: true
+      explanation: "Correct. You can include an almost unlimited number of existing files as inputs to ground the content that Copilot drafts. Copilot also supports uploading files in various formats, including PDFs, Word documents, and Excel spreadsheets, enhancing its versatility in handling diverse content types."
+  - content: "Which of the following items is a true statement regarding Microsoft 365 Copilot in Outlook?"
+    choices:
+    - content: "Copilot scenarios in Outlook are available on a user’s archive mailbox, group mailboxes, or shared and delegate mailboxes that the user has access to."
+      isCorrect: false
+      explanation: "Incorrect. Copilot scenarios in Outlook aren't available on a user’s archive mailbox, group mailboxes, or shared and delegate mailboxes that the user has access to."
+    - content: "Microsoft supports Copilot in Outlook on mailboxes hosted on Exchange Online and third-party mail platforms."
+      isCorrect: false
+      explanation: "Incorrect. Microsoft only supports Copilot in Outlook on mailboxes hosted on Exchange Online."
+    - content: "Copilot scenarios in Outlook are only available on a user’s primary mailbox."
+      isCorrect: true
+      explanation: "Correct. Copilot scenarios in Outlook are only available on a user’s primary mailbox. They aren't available on a user’s archive mailbox, group mailboxes, or shared and delegate mailboxes that the user has access to. Microsoft only supports Copilot in Outlook on mailboxes hosted on Exchange Online."
