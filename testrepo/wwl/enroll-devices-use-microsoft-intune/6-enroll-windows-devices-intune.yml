@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.enroll-devices-use-microsoft-intune.enroll-windows-devices-intune
+title: Enroll Windows devices in Intune
+metadata:
+  title: Enroll Windows devices in Intune
+  description: "Enroll Windows devices in Intune"
+  ms.date: 07/13/2022
+  author: wwlpublish
+  ms.author: brhinkel
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 7
+content: |
+  [!include[](includes/6-enroll-windows-devices-intune.md)]
