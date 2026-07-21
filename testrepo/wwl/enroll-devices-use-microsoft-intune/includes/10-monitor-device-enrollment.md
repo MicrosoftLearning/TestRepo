@@ -2,7 +2,7 @@ As an Intune administrator, you must ensure that managed devices are providing t
 
 The Devices workload gives you insights into the devices you manage, and lets you perform remote tasks on those devices.
 
-#### Monitoring enrolled devices
+# Monitoring enrolled devices
 
 1.  Sign in to the **Endpoint Manager admin center**.
 2.  Select **Devices**. This view shows detailed information about the individual devices, and what you can do with them, including:
