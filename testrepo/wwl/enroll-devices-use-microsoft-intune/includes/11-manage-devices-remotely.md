@@ -1,4 +1,4 @@
-## Contnet
+# Contnet
 The Devices feature provides additional details into the devices you manage, including their hardware and the apps installed. To view all your devices, and their properties do the following:
 
 1.  Sign in to the **Endpoint Manager admin center**.
